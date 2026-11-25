@@ -1,0 +1,9 @@
+node_modules/
+dist/
+dist-web/
+database/*.sqlite
+database/*.sqlite-*
+data/
+.env
+coverage/
+*.log
